@@ -1,9 +1,16 @@
-- 👋 Hi, I’m @Fahed-selmi
-- 👀 I’m interested in web developing
-- 🌱 I worked on various web projects using symfony and native php and I’m currently learning React and NodeJs 
-- 📫 How to reach me? Just send an Email: fahed.selmi3@gmail.com
+# 👋 Hi there, I'm Fahed Selmi!
 
-<!---
-Fahed-selmi/Fahed-selmi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile. I'm a passionate web developer with experience in crafting web solutions using Symfony, native PHP, and currently exploring the exciting realms of React and Node.js.
+
+## 🔧 Technologies & Tools
+- **Back-end:** Symfony, PHP
+- **Front-end:** React
+- **Server-side:** Node.js
+- **Database:** MySQL, MongoDB, RedShift
+- **Others:** Git, HTML, CSS, JavaScript
+
+## 🌱 Current Focus
+I'm dedicated to expanding my skills and knowledge in React and Node.js, continuously seeking new challenges and opportunities to enhance my expertise.
+
+## 📬 Let's Connect
+I'm always open to collaboration and interesting projects. Feel free to reach out to me via email: [fahed.selmi3@gmail.com](mailto:fahed.selmi3@gmail.com)
